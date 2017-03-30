@@ -1,0 +1,2 @@
+1、通过jdk自带的wsimport命令解析wsdl文件生成代码
+D:\ws>wsimport -s . -p cn.com.mobile http://ws.webxml.com.cn/WebServices/MobileCodeWS.asmx?wsdl
